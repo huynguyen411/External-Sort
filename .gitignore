@@ -1,0 +1,7 @@
+/.idea
+/.vs
+/global.json
+/SortLargeFile/bin
+/SortLargeFile/obj
+/SortLargeFile/bin/*
+/SortLargeFile/obj/*
